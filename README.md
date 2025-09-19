@@ -53,7 +53,11 @@
 ## 데모 및 시각 자료
 
 - **로봇 구동**: 컨베이어 벨트 위 물체 분류 (파지점 대기 **→** 토픽 수신 **→** End-effect 각도 조정 **→** 카르테시안 경로 이동 (컨베이어 위 → 아래)  **→** 그리핑 **→** 카르테시안 경로 이동 (컨베이어 아래 →위) →기본 위치 복귀 **→** 바구니 이동 (종류별 목표)**→**  그리퍼 오픈 **→** 다시 파지점 대기).
+<img width="771" height="572" alt="franka1" src="https://github.com/user-attachments/assets/eb27af88-4505-4875-8719-68df2bcb5e89" />
+
+  
 - **시스템 아키텍처 및 노드 그래프**
+![franka2](https://github.com/user-attachments/assets/a3121363-4dbe-4c16-b12f-dd7221a55747)
 
 ## 연락처
 
