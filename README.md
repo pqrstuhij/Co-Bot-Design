@@ -51,6 +51,7 @@ franka_pickandplace.cpp 코드를 작성하며
 - **시연 성공**: 실험실에서 안정적 Pick & Place 시연.
 
 ## 데모 및 시각 자료
+https://github.com/user-attachments/assets/1ce6634c-b7f9-470b-a258-f98f1c2df3ae
 
 - **로봇 구동**: 컨베이어 벨트 위 물체 분류 (파지점 대기 **→** 토픽 수신 **→** End-effect 각도 조정 **→** 카르테시안 경로 이동 (컨베이어 위 → 아래)  **→** 그리핑 **→** 카르테시안 경로 이동 (컨베이어 아래 →위) →기본 위치 복귀 **→** 바구니 이동 (종류별 목표)**→**  그리퍼 오픈 **→** 다시 파지점 대기).
 <img width="771" height="572" alt="franka1" src="https://github.com/user-attachments/assets/eb27af88-4505-4875-8719-68df2bcb5e89" />
